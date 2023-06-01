@@ -1,5 +1,6 @@
 # singleton-project
 
-# run test
-java ClassSingletonTest
-java ClassUniqueInstanceTest
+## run test
+#java ClassSingletonTest
+
+#java ClassUniqueInstanceTest
